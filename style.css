@@ -1,0 +1,16 @@
+#header {
+    transition: all 0.5s;
+}
+
+.first{
+    background-color: goldenrod;
+    text-shadow: 50px;
+    color:black;
+    font-size: 30px;
+}
+
+.second{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
